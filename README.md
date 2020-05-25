@@ -3,8 +3,8 @@ UCAS NOAA-19 Satellite Cloud Image Experiment
 
 
 # final_code.zip:
-### HTML code 
-### Main code of satellite cloud image system
+### 1. HTML code 
+### 2. Main code of satellite cloud image system
 
 
 # APP_CODE
